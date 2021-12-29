@@ -1,0 +1,6 @@
+# Ignore private config files
+*.url
+*.key
+*.token
+*.secret
+*.user
