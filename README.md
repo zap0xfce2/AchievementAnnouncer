@@ -13,7 +13,7 @@ A pythonscript in docker for tweeting your retroachievements from emulationstati
 ### Getting started
 
 - clone the repo
-- add a folder in AchievementAnnouncer and name it "config"
+- go to "AchievementAnnouncer/config"
 - in this "config" folder add the following files and contens:
   - Long.url - The long url to your retroachievemnts profile
   - Short.url - The short url to your retroachievemnts profile
